@@ -407,3 +407,9 @@ nav .icon{
 .fa-heart{
 	color: #f44336;
 }
+@media (max-width:700) {
+.footer p{
+	font-size: 14px;
+	max-width: 90%;
+}
+}

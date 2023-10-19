@@ -475,6 +475,10 @@ nav .icon{
 		font-size: 18px;
 		text-align: justify;
 	}
+	.about-col p span{
+	  color: #f46336;
+	  font-weight: 600;
+  }
 	.about-col img {
 		display: none;
 	}

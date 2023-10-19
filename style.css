@@ -454,6 +454,10 @@ nav .icon{
 .about-col p{
 	padding: 15px 0 25px;
 }
+.about-col p span{
+	color: #f46336;
+	font-weight: 600;
+}
 .red-btn{
 	border: 1px solid #f44336;
 	background-color: transparent;
@@ -469,6 +473,10 @@ nav .icon{
 	}
 	.about-col p{
 		font-size: 18px;
+		text-align: justify;
+	}
+	.about-col img {
+		display: none;
 	}
   .red-btn{
 		left: 50%;

@@ -60,7 +60,7 @@ nav img{
 	content: "";
 	width: 0;
 	height: 2px;
-	background-color: #f46336;
+	background-color: rgb(244, 99, 54);
 	display: block;
 	margin: auto;
 	transition: 0.4s;
